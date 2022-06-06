@@ -2250,11 +2250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Manish\\Study\\Practice\\Project\\WebApp\\WebApp\\Mango.Web\\Mango.Web.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\manishshuklaonline\\identityrepo6\\Mango.Web\\Mango.Web.csproj",
       "projectName": "Mango.Web",
-      "projectPath": "D:\\Manish\\Study\\Practice\\Project\\WebApp\\WebApp\\Mango.Web\\Mango.Web.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\manishshuklaonline\\identityrepo6\\Mango.Web\\Mango.Web.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Manish\\Study\\Practice\\Project\\WebApp\\WebApp\\Mango.Web\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\manishshuklaonline\\identityrepo6\\Mango.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
